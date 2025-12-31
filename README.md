@@ -1,2 +1,2 @@
 # GIS
-GIS codes
+Sample code for GIS 
